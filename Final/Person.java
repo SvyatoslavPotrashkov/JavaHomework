@@ -85,7 +85,7 @@ public class Person {
 
     // собственные методы
     public void introduce() {
-        System.out.println("Меня зовут " + firstName + " " + lastName + ", и мне " + age + " год (лет).");
+        System.out.println("Меня зовут " + firstName + " " + lastName + ", и мне " + age + " года (лет).");
     }
 
     public void work() {
