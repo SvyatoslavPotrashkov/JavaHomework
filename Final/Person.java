@@ -85,10 +85,10 @@ public class Person {
 
     // собственные методы
     public void introduce() {
-        System.out.println("My name is " + firstName + " " + lastName + ", and I am " + age + " years old.");
+        System.out.println("Меня зовут " + firstName + " " + lastName + ", и мне " + age + " год (лет).");
     }
 
     public void work() {
-        System.out.println("I am a " + occupation + ".");
+        System.out.println("Я " + occupation + ".");
     }
 }
